@@ -1,5 +1,8 @@
 # Desafio Nível Básico: Criando um Sistema Bancário com Python
 
+## Descrição
+Este é um exemplo de um programa simples de gerenciamento bancário em Python, que permite ao usuário depositar, sacar, visualizar o extrato e sair do programa.
+
 ## Desafio
 Você foi contratado por um grande banco para desenvolver o seu novo sistema. Esse banco deseja modernizar suas operações e para isso escolheu a linguagem Python. Para a primeira versão do sistema, devemos implementar apenas 3 operações: depósito, saque e extrato.
 
