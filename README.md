@@ -1,8 +1,5 @@
 # Desafio Nível Básico: Criando um Sistema Bancário com Python
 
-## Objetivo Geral
-Construir um sistema completo, abordando funcionalidades como criação de contas, transações e segurança.
-
 ## Desafio
 Você foi contratado por um grande banco para desenvolver o seu novo sistema. Esse banco deseja modernizar suas operações e para isso escolheu a linguagem Python. Para a primeira versão do sistema, devemos implementar apenas 3 operações: depósito, saque e extrato.
 
